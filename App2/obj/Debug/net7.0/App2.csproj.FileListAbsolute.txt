@@ -1,0 +1,15 @@
+C:\Users\Thauan Melo\Documents\BNE\App2\bin\Debug\net7.0\App2.exe
+C:\Users\Thauan Melo\Documents\BNE\App2\bin\Debug\net7.0\App2.deps.json
+C:\Users\Thauan Melo\Documents\BNE\App2\bin\Debug\net7.0\App2.runtimeconfig.json
+C:\Users\Thauan Melo\Documents\BNE\App2\bin\Debug\net7.0\App2.dll
+C:\Users\Thauan Melo\Documents\BNE\App2\bin\Debug\net7.0\App2.pdb
+C:\Users\Thauan Melo\Documents\BNE\App2\obj\Debug\net7.0\App2.csproj.AssemblyReference.cache
+C:\Users\Thauan Melo\Documents\BNE\App2\obj\Debug\net7.0\App2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thauan Melo\Documents\BNE\App2\obj\Debug\net7.0\App2.AssemblyInfoInputs.cache
+C:\Users\Thauan Melo\Documents\BNE\App2\obj\Debug\net7.0\App2.AssemblyInfo.cs
+C:\Users\Thauan Melo\Documents\BNE\App2\obj\Debug\net7.0\App2.csproj.CoreCompileInputs.cache
+C:\Users\Thauan Melo\Documents\BNE\App2\obj\Debug\net7.0\App2.dll
+C:\Users\Thauan Melo\Documents\BNE\App2\obj\Debug\net7.0\refint\App2.dll
+C:\Users\Thauan Melo\Documents\BNE\App2\obj\Debug\net7.0\App2.pdb
+C:\Users\Thauan Melo\Documents\BNE\App2\obj\Debug\net7.0\App2.genruntimeconfig.cache
+C:\Users\Thauan Melo\Documents\BNE\App2\obj\Debug\net7.0\ref\App2.dll

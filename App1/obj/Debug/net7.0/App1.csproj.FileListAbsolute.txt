@@ -1,0 +1,15 @@
+C:\Users\Thauan Melo\Documents\BNE\App1\bin\Debug\net7.0\App1.exe
+C:\Users\Thauan Melo\Documents\BNE\App1\bin\Debug\net7.0\App1.deps.json
+C:\Users\Thauan Melo\Documents\BNE\App1\bin\Debug\net7.0\App1.runtimeconfig.json
+C:\Users\Thauan Melo\Documents\BNE\App1\bin\Debug\net7.0\App1.dll
+C:\Users\Thauan Melo\Documents\BNE\App1\bin\Debug\net7.0\App1.pdb
+C:\Users\Thauan Melo\Documents\BNE\App1\obj\Debug\net7.0\App1.csproj.AssemblyReference.cache
+C:\Users\Thauan Melo\Documents\BNE\App1\obj\Debug\net7.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thauan Melo\Documents\BNE\App1\obj\Debug\net7.0\App1.AssemblyInfoInputs.cache
+C:\Users\Thauan Melo\Documents\BNE\App1\obj\Debug\net7.0\App1.AssemblyInfo.cs
+C:\Users\Thauan Melo\Documents\BNE\App1\obj\Debug\net7.0\App1.csproj.CoreCompileInputs.cache
+C:\Users\Thauan Melo\Documents\BNE\App1\obj\Debug\net7.0\App1.dll
+C:\Users\Thauan Melo\Documents\BNE\App1\obj\Debug\net7.0\refint\App1.dll
+C:\Users\Thauan Melo\Documents\BNE\App1\obj\Debug\net7.0\App1.pdb
+C:\Users\Thauan Melo\Documents\BNE\App1\obj\Debug\net7.0\App1.genruntimeconfig.cache
+C:\Users\Thauan Melo\Documents\BNE\App1\obj\Debug\net7.0\ref\App1.dll

@@ -1,0 +1,15 @@
+C:\Users\Thauan Melo\Documents\BNE\App3\bin\Debug\net7.0\App3.exe
+C:\Users\Thauan Melo\Documents\BNE\App3\bin\Debug\net7.0\App3.deps.json
+C:\Users\Thauan Melo\Documents\BNE\App3\bin\Debug\net7.0\App3.runtimeconfig.json
+C:\Users\Thauan Melo\Documents\BNE\App3\bin\Debug\net7.0\App3.dll
+C:\Users\Thauan Melo\Documents\BNE\App3\bin\Debug\net7.0\App3.pdb
+C:\Users\Thauan Melo\Documents\BNE\App3\obj\Debug\net7.0\App3.csproj.AssemblyReference.cache
+C:\Users\Thauan Melo\Documents\BNE\App3\obj\Debug\net7.0\App3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thauan Melo\Documents\BNE\App3\obj\Debug\net7.0\App3.AssemblyInfoInputs.cache
+C:\Users\Thauan Melo\Documents\BNE\App3\obj\Debug\net7.0\App3.AssemblyInfo.cs
+C:\Users\Thauan Melo\Documents\BNE\App3\obj\Debug\net7.0\App3.csproj.CoreCompileInputs.cache
+C:\Users\Thauan Melo\Documents\BNE\App3\obj\Debug\net7.0\App3.dll
+C:\Users\Thauan Melo\Documents\BNE\App3\obj\Debug\net7.0\refint\App3.dll
+C:\Users\Thauan Melo\Documents\BNE\App3\obj\Debug\net7.0\App3.pdb
+C:\Users\Thauan Melo\Documents\BNE\App3\obj\Debug\net7.0\App3.genruntimeconfig.cache
+C:\Users\Thauan Melo\Documents\BNE\App3\obj\Debug\net7.0\ref\App3.dll
